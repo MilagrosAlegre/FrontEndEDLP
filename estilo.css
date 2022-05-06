@@ -1,0 +1,30 @@
+body {background-image: url(../fondo/fon.jpg);
+  background-color:#D4EFDF;
+  font-style: normal;
+  border-color: red;}
+  header
+    h1 {color:#154360;
+    background-color:#EBEDEF;
+     font-size:50px;
+     text-decoration: underline;
+     text-align:center;}
+  h2 {color: #1B4F72;
+    font-size: 30px;
+    font-weight: bolder;}
+    .img1 {min-width: 200px;height:200px;
+    float: right;}
+  p { color:#1B4F72;
+    font-size: 20px}
+
+    section
+  h3 {color:#1B4F72;
+    font-size: 26px}
+  H4 {color: #1B4F72;
+    font-size: 20px}
+  li {color: #1B4F72;
+    font-size:17px}}
+aside
+.iframe1 {width: 300px;height: 300px;}
+ .iframe2{width:300px;;height: 300px;}
+ footer
+.img2 {min-width: 50px;height: 50px;float:right;background-attachment: fixed;}
